@@ -1,0 +1,48 @@
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Bot Application.dll.config
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Bot Application.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Bot Application.pdb
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Autofac.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Chronic.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Common.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Receivers.Custom.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Receivers.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Builder.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Connector.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Newtonsoft.Json.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Net.Http.Formatting.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Web.Http.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Web.Http.WebHost.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Autofac.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Common.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Receivers.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.AspNet.WebHooks.Receivers.Custom.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Builder.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.Bot.Connector.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\Newtonsoft.Json.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Net.Http.Formatting.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Web.Http.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\System.Web.Http.WebHost.xml
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\obj\Debug\Bot Application.dll
+C:\bots\msBOT\MsBotDemo\MsBotDemo\obj\Debug\Bot Application.pdb
+C:\bots\msBOT\MsBotDemo\MsBotDemo\obj\Debug\MsBotDemo.csprojResolveAssemblyReference.cache
